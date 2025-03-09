@@ -31,3 +31,7 @@ a:hover {
   -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none; /* Firefox */
 }
+
+#change_color{
+  color: blue;
+}
